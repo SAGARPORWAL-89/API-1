@@ -23,15 +23,6 @@ app.use('/api',web)
 // localhost:4000/api
 
 
-
-
-
-
-
-
-
-
-
 // Server create
 app.listen(process.env.PORT,()=>{
     console.log(`server running on localhost: ${process.env.PORT}`)
