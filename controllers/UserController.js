@@ -4,9 +4,9 @@ const jwt = require('jsonwebtoken');
 const cloudinary = require("cloudinary").v2;
 
 cloudinary.config({
-    cloud_name: "ddc3epubs",
-    api_key: "433914787825219",
-    api_secret: "J0gZRtPMMvc70LUC9QNTlgpBNjI",
+    cloud_name: "dllzglhax",
+    api_key: "637155761118716",
+    api_secret: "y8_ghvy66WAgI8_O_30uBUeH730",
 });
 
 
